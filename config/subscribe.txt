@@ -25,8 +25,8 @@ http://gh-proxy.com/https://ghfast.top/raw.githubusercontent.com/vfdeclnc/iptv/r
 http://gh-proxy.com/https://ghfast.top/github.com/vfdeclnc/iptv/blob/main/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8.m3u
 http://gh-proxy.com/https://ghfast.top/raw.githubusercontent.com/vfdeclnc/iptv/refs/heads/main/国外电视台.m3u
 
-
-
+http://123.99.199.240:1006/app/1.txt
+http://192.140.163.220:9986/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt
 
 
 
